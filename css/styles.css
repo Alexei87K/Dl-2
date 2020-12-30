@@ -1,0 +1,16 @@
+.wrapper{
+	padding: 15px;
+	max-width: 900px;
+}
+.btn-delete{
+	display:inline;
+	background:red;
+	padding:5px 10px;
+	cursor:pointer;
+	margin-left:5px;
+	color:#fff;
+}
+.checked{
+	background:red;
+	color:red;
+}
